@@ -1,3 +1,44 @@
+## ReactJS Chapter 06
+It is my coding practice with the TUTORIAL of Dave Gray. 
+
+## Source
+### Dave Gray 的 Reactjs 課程
+https://youtube.com/playlist?list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp
+### Dave Gray 的 YouTube 頻道
+https://www.youtube.com/@DaveGrayTeachesCode
+
+## ReactJS Chapter 06
+   Quick Concept outline
+   中文摘要說明與重點提問
+
+### 1. Intro 
+       教學影片固定的開頭和摘要說明
+
+### 2. React-ing to changes in component state
+       概述前一章的變動所使用的 Vanilla JavaScript 架構
+
+### 3. Importing the useState hook <Code更動>
+       從 react 匯入 useState 
+
+### 4. Setting the default state of the component <Code更動>
+       指派 Array 設定 useState ，預設輸入的名字是 Dave
+       修改網頁的顯示文字的參數。
+
+### 5. Setting a new state value <Code更動>
+       結合剛剛設定的 useState，使網頁的名字在點擊第一個按鈕時，可以隨機變動。
+       按鈕的文字修改為 Change Name。
+
+### 6. 2nd example of useState <Code更動>
+       指派 Array 設定預設輸入的數字是 0，
+
+### 7. Avoiding mistakes with useState <Code更動>
+       設定點擊第二個按鈕時，可以回傳數字 0。
+       設定點擊第二個按鈕時，回傳數字會逐漸增加 1，如: 0, 1, 2, 3。
+       示範錯誤設定按鈕時，回傳數字為什麼不會如想像中的方式增加。
+       
+### 8. Review
+       複習
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +109,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# ReactJS03QCo07
